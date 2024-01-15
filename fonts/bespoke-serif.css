@@ -1,0 +1,24 @@
+/**
+ * @license
+ *
+ * Font Family: Bespoke Serif
+ * Designed by: Jeremie Hornus, Theo Guillard, Morgane Pambrun, Alisa Nowak, Joachim Vu
+ * URL: https://www.fontshare.com/fonts/bespoke-serif
+ * © 2024 Indian Type Foundry
+ *
+ * Font Style:
+ * Bespoke Serif Regular
+ *
+*/
+
+
+@font-face {
+  font-family: 'BespokeSerif-Regular';
+  src: url('../fonts/BespokeSerif-Regular.woff2') format('woff2'),
+       url('../fonts/BespokeSerif-Regular.woff') format('woff'),
+       url('../fonts/BespokeSerif-Regular.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
